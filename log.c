@@ -103,4 +103,3 @@ void message(int level, const char *format, ...)
         exit(1);
 }
 
-/* vim: set et sw=4 ts=4: */
